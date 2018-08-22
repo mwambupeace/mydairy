@@ -1,2 +1,2 @@
 # mydairy
-a dairy where you can keep your memories,your to-dos even your contacts.
+An online journal where users can pen down there thoughts and feelings and can keep your memories,your to-dos even your contacts.
