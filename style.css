@@ -1,0 +1,30 @@
+body{
+    margin:0;
+    padding:0;
+    background-color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-position: center;
+    background-size: cover;
+    align-content: center;
+}
+input[type="text"]{
+     width:10%;
+     padding: 10px 18px;
+     margin:6px 0;
+     box-sizing: content-box;
+     text-align: justify;
+}
+input[type="password"]{
+     width:10%;
+     padding: 10px 18px;
+     margin:6px 0;
+     box-sizing: content-box;
+}
+input[type="reset"],input[type="submit"]{
+     background-color: black;
+     border: none;
+     color: blueviolet;
+     padding: 8px 16px;
+     margin:2px 1px;
+     cursor: pointer;
+}
